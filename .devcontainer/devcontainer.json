@@ -1,7 +1,9 @@
 {
+    "extensions": ["ms-vscode.cpptools", "ms-python.python"],
     "image": "cs50/codespace:latest",
     "settings": {
       "terminal.integrated.profiles.linux": {
+        "bash": null,
         "bash (login)": {
           "path": "bash",
           "args": ["-l"]
@@ -9,4 +11,4 @@
       },
       "terminal.integrated.defaultProfile.linux": "bash (login)"
     }
-  }
+}
