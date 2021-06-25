@@ -3,6 +3,7 @@
     "image": "cs50/codespace:latest",
     "settings": {
       "C_Cpp.autocomplete": "Disabled",
+      "javascript.suggest.enabled": false,
       "scm.countBadge": "off",
       "terminal.integrated.profiles.linux": {
         "bash": null,
