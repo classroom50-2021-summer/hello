@@ -2,6 +2,9 @@
     "extensions": ["ms-vscode.cpptools", "ms-python.python"],
     "image": "cs50/codespace:latest",
     "settings": {
+      "C_Cpp.autocomplete": "Disabled",
+      "javascript.suggest.enabled": false,
+      "python.autoComplete.showAdvancedMembers": false,
       "scm.countBadge": "off",
       "terminal.integrated.profiles.linux": {
         "bash": null,
